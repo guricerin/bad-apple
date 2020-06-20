@@ -15,7 +15,7 @@ https://github.com/tem6/badapple
 * 準備
 
 ```posh
-> git clone 
+> git clone https://github.com/guricerin/bad-apple.git
 > cd bad-apple
 > dotnet tool restore
 > dotnet paket install
