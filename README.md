@@ -12,7 +12,7 @@ https://github.com/tem6/badapple
 
 ## 実行手順
 
-1. 準備
+* 準備
 
 ```posh
 > git clone 
