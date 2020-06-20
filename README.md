@@ -42,7 +42,7 @@ https://github.com/tem6/badapple
 * ``cui-badapple.txt``のパスを指定し、``play.fsx``を実行
 
 ```posh
-> dotnet fsi .\src\image2text.fsx \path\to\frames-folder
+> dotnet fsi .\src\play.fsx \path\to\cui-badapple.txt
 ```
 
 ## 音声は？
